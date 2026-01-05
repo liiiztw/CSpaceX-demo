@@ -131,7 +131,3 @@ This system demonstrates our comprehensive control over game technology. We can 
 ---
 
 *CSpaceX - Next-Generation Web-Based Space Strategy Game Platform*
-=======
-*CSPaceX - 下一代网页宇宙策略游戏平台*
->>>>>>> af6a596c331091ea3e3d5fef4ed4d9f3fd8f1f58
-
